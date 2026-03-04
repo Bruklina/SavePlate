@@ -4,13 +4,20 @@ SavePlate is a platform that facilitates the connection between local food estab
 To fulfill the needs on the "Work on your vision!" slide, here is the breakdown:
 
 • Stakeholder 1: Local Food Businesses (Restaurants, Bakeries, Cafes)
+
 -Problem: The cost of disposing of perfectly good surplus food at end of the day is both too high for the environment and the pocketbook.
--Gain A: Reduced waste disposal fees and easier tracking for tax-deductible donations.
--Advantage B: Enhanced public brand image as a “Zero-Waste” sustainable enterprise.
+
+-Benefit A: Reduced waste disposal fees and easier tracking for tax-deductible donations.
+
+-Benefit B: Enhanced public brand image as a “Zero-Waste” sustainable enterprise.
 
 • Stakeholder 2: Community Charities & Food Banks
--Challenge: Without manually calling, it's hard to identify dependable, fresh and quality food sources on a regular basis.
--Gain A: Access with a click to live notifications of fresh food donations in their area. o	Benefit B: Logistics and pick-up scheduling automation, allowing staff savings in time and resources.
+
+-Problem: Without manually calling, it's hard to identify dependable, fresh and quality food sources on a regular basis.
+
+-Benefit A: Access with a click to live notifications of fresh food donations in their area. 
+
+-Benefit B: Logistics and pick-up scheduling automation, allowing staff savings in time and resources.
 
 •	Issue 3 (General/Logistical): There is no real-time communication tool that allows for an immediate pickup of fresh food before it spoils.
 
