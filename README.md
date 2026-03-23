@@ -21,3 +21,6 @@ To fulfill the needs on the "Work on your vision!" slide, here is the breakdow
 
 •	Issue 3 (General/Logistical): There is no real-time communication tool that allows for an immediate pickup of fresh food before it spoils.
 
+<img width="516" height="475" alt="image" src="https://github.com/user-attachments/assets/5511ccc0-655d-4617-a382-516c7d1be7b7" />
+
+
